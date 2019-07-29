@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jass2125/bookclub-api.git"
+    "url": "git+https://github.com/jass2125/all-in-one-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jass2125/bookclub-api/issues"
+    "url": "https://github.com/jass2125/all-in-one-api/issues"
   },
-  "homepage": "https://github.com/jass2125/bookclub-api#readme",
+  "homepage": "https://github.com/jass2125/all-in-one-api#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
